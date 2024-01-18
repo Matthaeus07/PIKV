@@ -19,6 +19,8 @@ body {
 
 header {
     text-align: center;
+    width: 90%;
+    margin: auto;
 }
 h1 {
     color: #333;
